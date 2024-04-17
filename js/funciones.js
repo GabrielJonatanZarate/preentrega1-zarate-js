@@ -1,5 +1,5 @@
 function saludoAvanzado(nombreDe, apellidoDe) {
-    alert("Hola tia, " + nombreDe + " " + apellidoDe)
+    alert("Hola, " + nombreDe + " " + apellidoDe)
 };
 
 saludoAvanzado("Compañeros de", "Curso");
